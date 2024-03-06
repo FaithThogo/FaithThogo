@@ -1,18 +1,8 @@
 # About Me
-[![committers.top badge](https://user-badge.committers.top/kenya/lxmwaniky.svg)](https://user-badge.committers.top/kenya/lxmwaniky)
- - Hi There, I'm Alex Mwaniki. I'm a **Full-Stack** Software and **Flutter Developer**
- - I'm looking forward to collaborating in **Open-Source** Projects
-
-[![Alex Mwaniki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxmwaniky&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/lxmwaniky/)
-
-# LETS CONNECT
-<p align="center">
-<a href="https://twitter.com/lxmwaniky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lxmwaniky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lxmwaniky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lxmwaniky" height="30" width="40" /></a>
-<a href="https://instagram.com/lxmwaniky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lxmwaniky" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1004382002700627969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lxmwaniky" height="30" width="40" /></a>
-<a href="https://wa.me/+254701343452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="lxmwaniky" height="30" width="40" /></a>
-</p>
+[![committers.top badge](https://user-badge.committers.top/kenya/FaithTogo.svg)](https://user-badge.committers.top/kenya/FaithThogo)
+ - Hi There, I'm Faith Thogo.
+ - 
+[![Faith Thogo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FaithThogo&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/FaithThogo/)
 
 # TOOLS AND FRAMEWORKS:
 <p align="center">
@@ -69,13 +59,13 @@
 
 
 # PROGRESS
-![lxmwaniky's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lxmwaniky&&theme=dracula)
-![lxmwaniky's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxmwaniky&show_icons=true&theme=dracula)
-![lxmwaniky's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxmwaniky&langs_count=20&theme=dracula&layout=compact) 
-![lxmwaniky's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lxmwaniky&theme=dracula&height=50&layout=compact)
+![FaithThogo's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=FaithThogo&&theme=dracula)
+![FaithThogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaithThogo&show_icons=true&theme=dracula)
+![FaithThogo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithThogo&langs_count=20&theme=dracula&layout=compact) 
+![FaithThogo's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FaithThogo&theme=dracula&height=50&layout=compact)
 
 ## 🏆 Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=lxmwaniky&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FaithThogo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
