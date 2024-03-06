@@ -1,7 +1,7 @@
 # About Me
 [![committers.top badge](https://user-badge.committers.top/kenya/FaithTogo.svg)](https://user-badge.committers.top/kenya/FaithThogo)
  - Hi There, I'm Faith Thogo.
- - 
+  
 [![Faith Thogo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FaithThogo&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/FaithThogo/)
 
 # TOOLS AND FRAMEWORKS:
